@@ -20,12 +20,12 @@ Neural Network Classifier: A Sequential model built with Keras/TensorFlow featur
 Interactive Triage System: An integrated UI using ipywidgets that allows users to input clinical data and receive real-time urgency recommendations with confidence scores.
 
 
-Dataset
+# Dataset
 The model is trained on the Medical Triage 500 dataset, which consists of clinical descriptions and their corresponding triage levels.
-Source: Hugging Face - Medical Triage 500
+Source: [Hugging Face - Medical Triage 500](https://huggingface.co/datasets/syntech-ai/medical-triage-500)
 
 
-Performance
+# Performance
 The current model achieves a high level of accuracy in clinical urgency prediction:
 Final Accuracy: ~89%
 
@@ -36,7 +36,7 @@ Precision (Red): 0.93
 Recall (Red): 0.96
 
 
-Technology Stack
+# Technology Stack
 Languages: Python
 
 
@@ -49,6 +49,5 @@ UI/Interface: Ipywidgets, IPython Display
 Platform: Jupyter Notebook
 
 
-
-License & Integrity
+# License & Integrity
 This project is submitted as individual work for MBAI 5310G. It adheres to the Academic Integrity Policy of Ontario Tech University. Open-source libraries and frameworks used are credited within the source code.
