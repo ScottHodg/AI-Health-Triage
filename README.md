@@ -1,13 +1,13 @@
 # AI-Health-Triage
 
-AI Triage Assistant
+# AI Triage Assistant
 
 The AI Triage Assistant is a decision-support tool designed to optimize medical resource allocation and enhance patient safety. By utilizing Natural Language Processing (NLP), the system classifies user-described symptoms into three urgency levels: Red (Emergency), Yellow (Urgent), and Green (Routine).
 
-Project Overview
+# Project Overview
 This project was developed for the AI Programming (MBAI 5310G) course at Ontario Tech University. It demonstrates the practical application of AI in healthcare, specifically focusing on building a classification system that interprets clinical narratives to recommend appropriate levels of care.
 
-Key Features:
+## Key Features:
 Feature Engineering: Creates "Smart Profiles" by combining patient age, gender, symptom onset, context, and duration into a clinical narrative.
 
 
